@@ -4,7 +4,7 @@ author:
         url: "https://minhduchoang301.github.io/" 
         email: 'minhduc.hoang@mail.utoronto.ca'
         github: 'https://github.com/minhduchoang301'
-        linkedin: 'https://www.linkedin.com/in/my-duc-tran-2341a8191/'
+        linkedin: 'https://www.linkedin.com/in/minh-duc-hoang-437ab3160/'
 description: >- 
         Third-year HBSc Computer Science at UofT  
 baseurl: "" 
@@ -16,3 +16,4 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-remote-theme
+  
