@@ -14,14 +14,14 @@ My academic interests include:
 ### Professional Experience:
 
 + Research Intern at [VinAI Research](https://www.vinai.io/)
-- Research Topic: Face Parsing
-- Supervisor: [Dr. Anh T Tran](https://sites.google.com/site/anhttranusc/)
+	- Research Topic: Face Parsing
+	- Supervisor: [Dr. Anh T Tran](https://sites.google.com/site/anhttranusc/)
 + Research Assistant at [Sargent Group](https://light.utoronto.ca/)
-- Research Topic: Using NLP to mine perovskites' fabrication data and produce a semantic graph for Inverse Design
-- Supervisor: [Hitarth Choubisa](https://www.linkedin.com/in/choubisa/)
+	- Research Topic: Using NLP to mine perovskites' fabrication data and produce a semantic graph for Inverse Design
+	- Supervisor: [Hitarth Choubisa](https://www.linkedin.com/in/choubisa/)
 + Software Engineer Intern at [FPT AI](https://fpt.ai/)
-- Vision team, worked on OCR platform
-- Supervisor: [Minh Nguyen](https://www.linkedin.com/in/minhnd3796/)
+	- Vision team, worked on OCR platform
+	- Supervisor: [Minh Nguyen](https://www.linkedin.com/in/minhnd3796/)
 
 ### Extracurricular Activities
 + One of 6 representatives of UofT at [Project X 2020](https://www.projectx2020.com/), using AI to tackle problems in climate-influenced infectious diseases
