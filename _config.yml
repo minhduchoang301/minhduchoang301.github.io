@@ -13,7 +13,7 @@ baseurl: ""
 #         repo: https://github.com/minhduchoang301
 
 markdown: kramdown
-remote_theme: benbalter/retlab
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
   
