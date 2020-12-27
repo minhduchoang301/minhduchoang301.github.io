@@ -14,5 +14,10 @@ baseurl: ""
 
 markdown: kramdown
 remote_theme: benbalter/retlab
+
+# Plugins
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
