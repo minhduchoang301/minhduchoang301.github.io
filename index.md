@@ -4,7 +4,8 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="./profile.jpg" style="height: 50vh; display: block; margin: 1em auto;">
-I am Minh Duc Hoang (Damian/Duc), a third-year student at the University of Toronto pursuing a HBSc in Computer Science (Specialist/Honors) and minor in Statistics. I grew up in the capital city of Hanoi, Vietnam and came to Toronto in 2018 to pursue higher education in one of the world most developed cities. Prior to university, I went to Hanoi-Amsterdam High school for the Gifted for a study in Physics where I meet many amazing people.
+I am Minh Duc Hoang (Damian/Duc), a third-year student at the University of Toronto pursuing a HBSc in Computer Science (Specialist/Honors) and minor in Statistics. 
+I grew up in the capital city of Hanoi, Vietnam and came to Toronto in 2018 to pursue higher education in one of the world most developed cities. Prior to university, I went to Hanoi-Amsterdam High school for the Gifted for a study in Physics where I meet many amazing people.
 
 My academic interests include: 
 + Computer Vision
