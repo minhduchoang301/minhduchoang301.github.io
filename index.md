@@ -15,7 +15,7 @@ My academic interests include:
 
 + Research Intern at [VinAI Research](https://www.vinai.io/)
 - Research Topic: Face Parsing
-- Supervisor:[Anh T Tran](https://sites.google.com/site/anhttranusc/)
+- Supervisor: [Dr. Anh T Tran](https://sites.google.com/site/anhttranusc/)
 + Research Assistant at [Sargent Group](https://light.utoronto.ca/)
 - Research Topic: Using NLP to mine perovskites' fabrication data and produce a semantic graph for Inverse Design
 - Supervisor: [Hitarth Choubisa](https://www.linkedin.com/in/choubisa/)
