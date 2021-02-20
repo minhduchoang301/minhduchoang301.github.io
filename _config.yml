@@ -13,7 +13,7 @@ baseurl: ""
 #         repo: https://github.com/minhduchoang301
 
 markdown: kramdown
-remote_theme: pages-themes/minimal
+remote_theme: fongandrew/hydeout
 
 # Plugins
 plugins:
