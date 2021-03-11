@@ -16,8 +16,6 @@ In the previous year, I have the valuable experience to research on time-series 
 At the moment, I am reading & studying 3D Computer Vision and Visual Perception for Autonomous Driving vehicles in my free time. Starting May 2021, I will be joining Huawei as a co-op student in Toronto, ON.
 
 ### Professional Experience:
-+ Incoming AI Engineer Intern at [Huawei](https://www.huawei.com/)
-	- Distributed Scheduling and Data Engine Lab
 + Research Intern at [VinAI Research](https://www.vinai.io/)
 	- Research Topic: Face Parsing
 	- Supervisor: [Dr. Anh T Tran](https://sites.google.com/site/anhttranusc/)
