@@ -4,9 +4,11 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="./profile.jpg" style="height: 50vh; display: block; margin: 1em auto;">
-I am Minh Duc Hoang (Damian/Duc), a rising senior student at the University of Toronto St. George Campus pursuing a HBSc in Computer Science (Specialist/Honors) and minor in Statistics. Currently, I am working fulltime as an AI Engineer Intern at Huawei working on Reinforcement Learning based engines and a member of the newly established [Data Sciences Institute]<https://datasciences.utoronto.ca/> at UofT<br/> 
+I am Minh Duc Hoang (Damian/Duc), a rising senior student at the University of Toronto St. George Campus pursuing a HBSc in Computer Science (Specialist/Honors) and minor in Statistics. <br/> 
 
 I grew up in Hanoi, Vietnam and came to Toronto in 2018 to pursue higher education in one of the world most developed cities. Prior to university, I went to Hanoi-Amsterdam High school for the Gifted for a study in Physics where I meet many amazing people.
+
+Currently, I am working fulltime as an AI Engineer Intern at Huawei working on Reinforcement Learning based engines and a member of the newly established [Data Sciences Institute](https://datasciences.utoronto.ca/) at UofT
 
 My research interests include: 
 + Computer Vision
