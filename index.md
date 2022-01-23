@@ -4,23 +4,24 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="./profile.jpg" style="height: 50vh; display: block; margin: 1em auto;">
-I am Minh Duc Hoang (Damian/Duc), a rising senior student at the University of Toronto St. George Campus pursuing a HBSc in Computer Science (Specialist/Honors) and minor in Statistics. <br/> 
+I am Minh Duc Hoang (Damian/Duc), a rising senior student at the University of Toronto St. George Campus pursuing a HBSc in Computer Science (Specialist/Honors) <br/> 
 
 I grew up in Hanoi, Vietnam and came to Toronto in 2018 to pursue higher education in one of the world most developed cities. Prior to university, I went to Hanoi-Amsterdam High school for the Gifted for a study in Physics where I meet many amazing people.
 
-Currently, I am working fulltime as an AI Engineer Intern at Huawei working on Reinforcement Learning based engines and a member of the newly established [Data Sciences Institute](https://datasciences.utoronto.ca/) at UofT
+Currently, I am working fulltime as an AI Engineer Intern at Huawei working on Reinforcement Learning - based engines and a quantitative research associate at UofT/Harvard
 
 My research interests include: 
 + Computer Vision
 + Machine Learning 
 
-In the previous year, I have the valuable experience to research on time-series prediction for infectious disease modelling using Neural Network. Inspired by Neural ODE structure, we produced interesting results in Black Sigatoka prediction. Our work won [Project X 2020](https://www.projectx2020.com/), a international research competition for undergraduate with the theme this year being 'Climate Change' and was awarded $20000. It is proudly presented on [University of Toronto's  website](https://www.utoronto.ca/news/prize-winning-u-t-student-team-uses-ai-beat-banana-blight), [UofT Department of Computer Science's website](https://web.cs.toronto.edu/news-events/news/how-to-beat-banana-blight-prize-winning-u-of-t-student-team-turns-to-novel-neural-network), and the school largest student run newspaper - [The Varsity](https://thevarsity.ca/2021/01/31/u-of-t-ai-conference-highlights-use-of-machine-learning-to-address-the-climate-crisis/?fbclid=IwAR1SEmYQSDbnNUrBu8yMl_rB-3I5QrvJ0uf3Yrs3UuzDxHq0wMNTkIPask0). Our work is presented at ICML 2021 Climate Change AI Workshop
+In the previous year, I have the valuable experience to research on time-series prediction for infectious disease modelling using Neural Network. Inspired by Neural ODE structure, we produced interesting results in Black Sigatoka prediction. Our work won [Project X 2020](https://www.projectx2020.com/), a international research competition for undergraduate with the theme this year being 'Climate Change' and was awarded $20000. It is proudly presented on [University of Toronto's website](https://www.utoronto.ca/news/prize-winning-u-t-student-team-uses-ai-beat-banana-blight), [UofT Department of Computer Science's website](https://web.cs.toronto.edu/news-events/news/how-to-beat-banana-blight-prize-winning-u-of-t-student-team-turns-to-novel-neural-network), and the school largest student run newspaper - [The Varsity](https://thevarsity.ca/2021/01/31/u-of-t-ai-conference-highlights-use-of-machine-learning-to-address-the-climate-crisis/?fbclid=IwAR1SEmYQSDbnNUrBu8yMl_rB-3I5QrvJ0uf3Yrs3UuzDxHq0wMNTkIPask0). Our work is presented at ICML 2021 Climate Change AI Workshop
 
-At the moment, I am reading & studying 3D Computer Vision and Visual Perception for Autonomous Driving vehicles in my free time.
+
 
 ### Professional Experience:
-+ AI Engineer at [Huawei Technologies Canada](https://www.huawei.com/)
-	- AI Engine Team at Toronto Distributed Scheduling and Data Engine Lab
+
++ Software Engineer Intern, AI at [Huawei Technologies Canada](https://www.huawei.com/)
+	- AI Engine Team at Toronto Distributed Scheduling and Data Engine Lab, working on optimizers for [OpenLookEng](https://openlookeng.io/docs/docs/overview.html)
 	- Supervisor: [Dr Micheal Li](https://ca.linkedin.com/in/michael-l-72519124)
 + Research Intern at [VinAI Research](https://www.vinai.io/)
 	- Research Topic: Face Parsing
