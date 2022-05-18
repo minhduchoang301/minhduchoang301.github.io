@@ -21,9 +21,9 @@ In the previous year, I have the valuable experience to research on time-series 
 
 ### Professional Experience:
 
-+ Research Associate at [Harvard]
++ Research Associate at [Harvard](https://www.harvard.edu/)
 	-  Conducting quantitative finance and computational social science researches at [Laboratory of Innovation Science](https://lish.harvard.edu/)
-	-  Supervisor: [Dr. Hashim Zaman](), [Dr. Karim R. Lakhani]() 
+	-  Supervisor: [Dr. Hashim Zaman](https://lish.harvard.edu/people/hashim-zaman), [Dr. Karim R. Lakhani](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=240491) 
 + Software Engineer Intern, Machine Learning at [Huawei Technologies Canada](https://www.huawei.com/)
 	- AI Engine Team at Toronto Distributed Scheduling and Data Engine Lab, working on optimizations for [OpenLookEng](https://openlookeng.io/docs/docs/overview.html)
 	- Supervisor: [Dr Micheal Li](https://ca.linkedin.com/in/michael-l-72519124)
