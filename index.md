@@ -4,10 +4,7 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="./ava.jpeg" style="height: 50vh; display: block; margin: 1em auto;">
-I am Minh Duc Hoang (Duc), an alumni of the Department of Computer Science at the University of Toronto. I spent 5 years in the Greater Toronto Area, 4 years at the St. George Campus and 1 year in Markham during my co-op. I also briefly spent 3 months in London, UK. <br/> 
-
-Prior to university, I went to Hanoi-Amsterdam High school for the Gifted for a study in Physics where I meet many amazing people.
-
+I am Minh Duc Hoang (Duc), an alumni of the Department of Computer Science at the University of Toronto. I spent 5 years in the Greater Toronto Area during my college years, with some short period of time spent visiting London for my internship and my hometown, Hanoi. I will be moving to Montreal, QC soon. <br/> 
 
 ### Professional Experience:
 + Data Engineer Intern at [Meta](https://about.meta.com/?utm_source=about.facebook.com&utm_medium=redirect)
@@ -31,8 +28,7 @@ Prior to university, I went to Hanoi-Amsterdam High school for the Gifted for a 
 	- Supervisor: [Minh Nguyen](https://www.linkedin.com/in/minhnd3796/)
 
 ### Extracurricular Activities
-+ One of 6 representatives of UofT at [Project X 2020](https://www.projectx2020.com/), using AI to tackle problems in climate-influenced infectious diseases
-+ Third-place Intramural Soccer Open Tournament with our tri-campus Vietnamese team at UofT
++ One of 6 representatives of UofT at [Project X 2020](https://www.projectx2020.com/), using AI to tackle problems in climate-influenced infectious diseases. 
 + Founder and Leader of [Windchimes Project](https://www.facebook.com/windchimesproject/), a non-profit community project to raise awareness of our cultural values
 
 ### Research and Publications
