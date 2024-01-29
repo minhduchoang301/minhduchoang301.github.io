@@ -51,9 +51,29 @@ function nextQuestion() {
         displayQuestion();
         document.getElementById('result').textContent = '';
     } else {
-        document.getElementById('game').innerHTML = "<h1>Happy Anniversary!</h1>";
+        showFinalPage();
     }
 }
 
-displayQuestion();
+function showFinalPage() {
+    const gameDiv = document.getElementById('game');
+    gameDiv.innerHTML = "<h1>Happy Anniversary!</h1>";
 
+    // Add a personalized note
+    const note = document.createElement('p');
+    note.textContent = "Here's to another wonderful year together! [Your long note here...]";
+    note.style.textAlign = 'left'; // Optional: style as needed
+    gameDiv.appendChild(note);
+
+    // Add images
+    const images = ["image1.jpg", "image2.jpg"]; // Replace with your image file names
+    images.forEach(imgSrc => {
+        const img = document.createElement('img');
+        img.src = imgSrc;
+        img.style.width = '100%'; // Optional: adjust styles as needed
+        img.style.marginTop = '20px';
+        gameDiv.appendChild(img);
+    });
+}
+
+displayQuestion();
