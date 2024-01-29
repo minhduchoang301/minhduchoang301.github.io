@@ -17,20 +17,22 @@ function displayQuestion() {
         button.onclick = () => selectAnswer(answer);
         answersDiv.appendChild(button);
     });
+
+    // Disable the next button initially
+    document.getElementById('nextButton').disabled = true;
 }
 
 function selectAnswer(answer) {
     const isCorrect = answer === questions[currentQuestionIndex].correct;
-    document.getElementById('result').textContent = isCorrect ? "Correct!" : "Wrong!";
-    document.getElementById('nextButton').disabled = false;
+    document.getElementById('result').textContent = isCorrect ? "Correct! Click 'Next' to continue." : "Try again!";
+    document.getElementById('nextButton').disabled = !isCorrect;
 }
 
 function nextQuestion() {
-    currentQuestionIndex++;
-    if (currentQuestionIndex < questions.length) {
+    if (currentQuestionIndex < questions.length - 1) {
+        currentQuestionIndex++;
         displayQuestion();
         document.getElementById('result').textContent = '';
-        document.getElementById('nextButton').disabled = true;
     } else {
         document.getElementById('game').innerHTML = "<h1>Happy Anniversary!</h1>";
     }
