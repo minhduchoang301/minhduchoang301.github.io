@@ -2,8 +2,8 @@ const questions = [
     { question: "Warm-up 1: Where did we go on our first date?",type: "choice", answers: ["Charidise Cafe", "College Park", "Thai Restaurant", "Kibo Sushi"], correct: "Thai Restaurant" },
     { question: "Warm-up 2: What's our first movie together?",type: "choice", answers: ["Kungfu Panda", "Brave", "Up", "Ratatouille"], correct: "Brave" },
     { question: "Warm-up 3: When was your first note for me",type: "choice", answers: ["23/6/2021", "25/12/2021", "21/06/2021", "19/06/2021"], correct: "21/06/2021" },
-    { question: "Scavenger Hunt Clue 1: We were obsessed with some trivial, every day things. A (fake) friend of yours took advantage of that and you felt right into her trap.",type: "choice", answers: ["Kungfu Panda", "Brave", "Up", "Ratatouille"], correct: "utantanu" },
-    { question: "Scavenger Hunt Clue 2:", type: "input", correct: "Park"  }
+    { question: "Scavenger Hunt Clue 1 (Hint: Video): We were obsessed with some trivial, every day things. A (fake) friend of yours took advantage of that and you felt right into her trap.",type: "input", correct: "utantanu" },
+    { question: "Scavenger Hunt Clue 2 (Hint: Image): Wandering in the harsh flurries and the brisk wind between Bangkok, Seoul, and Beijing, we found the irresitable ball of snow.", type: "input", correct: "Park"  }
     // Add more questions here
 ];
 
