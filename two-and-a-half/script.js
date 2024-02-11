@@ -107,7 +107,7 @@ function showFinalPage() {
 
     // Add a personalized note
     const note = document.createElement('p');
-    note.textContent = "Here's to another wonderful year together! [Your long note here...]";
+    note.textContent = "Hanho babi! Hebbi Anniversary! It is almost 2 years 7 months since we started dating! This anniversary is extra special for multiple reasons: passing the 2.5 years mark, Valentines, being in Vietnam, ... etc. And it isn't over yet! Tomorrow, we're having a full-day date in Hanoi which I hope that you will enjoy! I just want to say that I love you bubi and I look forward to loving you more and more";
     note.style.textAlign = 'left'; // Optional: style as needed
     gameDiv.appendChild(note);
 
