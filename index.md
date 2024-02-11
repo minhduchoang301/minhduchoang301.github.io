@@ -4,9 +4,14 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="./ava.jpeg" style="height: 50vh; display: block; margin: 1em auto;">
-I am Minh Duc Hoang (Duc), an alumni of the Department of Computer Science at the University of Toronto. I spent 5 years in the Greater Toronto Area during my college years, with some short period of time spent visiting London for my internship and my hometown, Hanoi. I will be moving to Montreal, QC soon. <br/> 
+I am Minh Duc Hoang (Duc), a Quantitative Analyst at Squarepoint Capital & Graduate Student at the School of Engineering & Applied Sciences at the University of Pennsylvania. In 2023, I graduated the Department of Computer Science at the University of Toronto. I'm originally from Hanoi, Vietnam <br/> 
 
 ### Professional Experience:
++ Quantitative Analyst at [Squarepoint Capital](https://www.squarepoint-capital.com/)
+	- Researching statistically optimal executions for high-touch trades
+	- Monitoring, maintaining, and developing execution features and products for traders
+	- Supervisor: Dr Yebiao Jin
+
 + Data Engineer Intern at [Meta](https://about.meta.com/?utm_source=about.facebook.com&utm_medium=redirect)
 	- Built data transformation features, data pipelines, analysis metrics, ... to improve integrity enforcements on Meta's new initiatives
 	- Supervisor: Deniss Zenkovs
@@ -39,3 +44,8 @@ During 2022, I involved in different research projects in collaboration with Har
 In late 2020/early 2021, I had the valuable experience to research on time-series prediction for infectious disease modelling using Neural Network. Inspired by Neural ODE structure, we produced interesting results in Black Sigatoka prediction. Our work won [Project X 2020](https://www.projectx2020.com/), a international research competition for undergraduate with the theme this year being 'Climate Change' and was awarded $20000. It is proudly presented on [University of Toronto's website](https://www.utoronto.ca/news/prize-winning-u-t-student-team-uses-ai-beat-banana-blight), [UofT Department of Computer Science's website](https://web.cs.toronto.edu/news-events/news/how-to-beat-banana-blight-prize-winning-u-of-t-student-team-turns-to-novel-neural-network), and the school largest student run newspaper - [The Varsity](https://thevarsity.ca/2021/01/31/u-of-t-ai-conference-highlights-use-of-machine-learning-to-address-the-climate-crisis/?fbclid=IwAR1SEmYQSDbnNUrBu8yMl_rB-3I5QrvJ0uf3Yrs3UuzDxHq0wMNTkIPask0). Our work is presented at ICML 2021 Climate Change AI Workshop
 
 [Forecasting Black Sigatoka Infection Risks with Latent Neural ODEs](https://arxiv.org/abs/2012.00752) - International Conference in Machine Learning (ICML) 2021
+
+
+### Projects
+
+[A time-series forecasting of ETFs arbitrage dashboard](https://minhduchoang301.github.io/two-and-a-half/)
