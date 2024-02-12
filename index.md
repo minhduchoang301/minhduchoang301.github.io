@@ -4,7 +4,7 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="./ava.jpeg" style="height: 50vh; display: block; margin: 1em auto;">
-I am Minh Duc Hoang (Duc), a Quantitative Analyst at Squarepoint Capital & Graduate Student at the School of Engineering & Applied Sciences at the University of Pennsylvania. In 2023, I graduated the Department of Computer Science at the University of Toronto. I'm originally from Hanoi, Vietnam <br/> 
+I am Minh Duc Hoang (Duc), a Quantitative Analyst at Squarepoint Capital & Graduate Data Science Student at the School of Engineering & Applied Sciences at the University of Pennsylvania. In 2023, I graduated the Department of Computer Science at the University of Toronto. I'm originally from Hanoi, Vietnam <br/> 
 
 ### Professional Experience:
 + Quantitative Analyst at [Squarepoint Capital](https://www.squarepoint-capital.com/)
