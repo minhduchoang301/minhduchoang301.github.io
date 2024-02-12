@@ -107,12 +107,12 @@ function showFinalPage() {
 
     // Add a personalized note
     const note = document.createElement('p');
-    note.textContent = "Hanho babi! Hebbi Anniversary! It is almost 2 years 7 months since we started dating! This anniversary is extra special for multiple reasons: passing the 2.5 years mark, Valentines, being in Vietnam, ... etc. And it isn't over yet! Tomorrow, we're having a full-day date in Hanoi which I hope that you will enjoy! I just want to say that I love you bubi and I look forward to loving you more and more";
+    note.textContent = "Hanho babi! Hebbi Anniversary! It is almost 2 years 7 months since we started dating! We have many ups and downs but I've enjoyed every second of this relationship. This anniversary is extra special for multiple reasons: passing the 2.5 years mark, Valentines, being in Vietnam, ... etc. And this is just the beginning! We're having a full-day date today which I hope that you will enjoy! I just want to say that I love you bubi and I look forward to loving you more and more";
     note.style.textAlign = 'left'; // Optional: style as needed
     gameDiv.appendChild(note);
 
     // Add images
-    const images = ["image1.jpg", "image2.jpg"]; // Replace with your image file names
+    const images = ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"]; // Replace with your image file names
     images.forEach(imgSrc => {
         const img = document.createElement('img');
         img.src = imgSrc;
