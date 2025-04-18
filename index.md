@@ -8,7 +8,7 @@ I am Minh Duc Hoang (Duc), a Software Engineer & Graduate Data Science Student a
 
 ### Professional Experience:
 + Software Engineer at [Amazon](https://www.squarepoint-capital.com/)
-	- Developed AI engines&orchestrations for classic TTS-NLU stacks and LLM stacks on Alexa Automotive
+	- Developed edge AI orchestrations on the classic TTS-NLU stack and LLM stack on Alexa Automotive
 
 + Quantitative Analyst at [Squarepoint Capital](https://www.squarepoint-capital.com/)
 	- Researched statistical learning models for optimal executions for high-touch trades
